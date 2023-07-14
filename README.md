@@ -15,8 +15,9 @@
 
 -----
 
+<!--
 📋 [RESUME](https://google.com, "google link") | 🌱 [PORTFOLIO](https://2dewi.tistory.com/ "tistory link") | ✏️ [TISTORY](https://2dewi.tistory.com/ "tistory link")
-
+-->
 
 
 <!--
